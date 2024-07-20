@@ -5,31 +5,31 @@ message: >-
 authors:
   - given-names: Chelsea
     family-names: John
-    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
     orcid: 'https://orcid.org/0000-0003-3777-7393'
   - given-names: Stefan
     family-names: Kesselheim
-    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
     orcid: 'https://orcid.org/0000-0003-0940-5752'
   - given-names: Carolin
     family-names: Penke
-    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
     orcid: 'https://orcid.org/0000-0002-4043-3885'
   - given-names: Jan
     family-names: Ebert
-    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
     orcid: 'https://orcid.org/0000-0001-7118-0481'
   - given-names: Stepan
     family-names: Nassyr
-    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
     orcid: 'https://orcid.org/0000-0002-0035-244X'
   - given-names: Andreas
     family-names: Herten
-    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
     orcid: 'https://orcid.org/0000-0002-7150-2505'
   - given-names: Sebastian
     family-names: Achilles
-    affiliation: Forschunsgzentrum Jülich, Jülich Supercomputing Centre
+    affiliation: Forschungszentrum Jülich, Jülich Supercomputing Centre
     orcid: 'https://orcid.org/0000-0002-1943-6803'
 abstract: "The Megatron-LM benchmark of the JUPITER Benchmark Suite"
 identifiers:
