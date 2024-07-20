@@ -1,0 +1,15 @@
+venv*
+src/data/index-cache
+src/build_done
+src/patch_applied
+pip_cache
+output
+benchmark/aux/preprocessing_done
+benchmark/aux/oscar-10MB.jsonl
+benchmark/aux/oscar-1GB.jsonl.xz
+benchmark/jube/nlp_benchmark_run
+DESCRIPTION.docx
+nlp-bench.sha256
+nlp-bench.tar.gz
+tmp.*
+*.out

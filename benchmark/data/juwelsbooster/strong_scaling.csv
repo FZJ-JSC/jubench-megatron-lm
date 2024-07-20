@@ -1,0 +1,4 @@
+JobID,Job_Time,Model_Size [Billion Param],Nodes,Batch_Size,Pipeline_Parallel,Tensor_Parallel,Iterations,Max_TFLOPs/GPU,Tokens/sec,time_to_report_in_seconds
+9531956,00:45:00,175,48,48,8,8,30,115.66,14620.74,1367.92
+8630894,00:45:00,175,96,96,8,8,430,137.89,36055.39,554.70
+9543643,00:45:00,175,192,192,8,8,10,97.68,52315.10,382.30

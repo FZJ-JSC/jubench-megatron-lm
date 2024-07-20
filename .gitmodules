@@ -1,0 +1,6 @@
+[submodule "src/Megatron-LM"]
+	path = src/Megatron-LM
+	url = https://github.com/NVIDIA/Megatron-LM.git
+[submodule "src/apex"]
+	path = src/apex
+	url = https://github.com/NVIDIA/apex.git
